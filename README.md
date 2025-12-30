@@ -62,6 +62,3 @@ In controlled environment testing, MediBot demonstrated high reliability across 
 4.  **Control:** Access `192.168.4.1` to toggle between **Autonomous Mode** and **Manual Teleoperation**.
 
 ---
-
-## 👥 Contributors
-* **Your Name/Team** - Department of Mechatronics Engineering.
